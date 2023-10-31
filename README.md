@@ -74,7 +74,7 @@
 * {2:.2f} = menghasilkan output maks 2 bilangan setelah koma (.)
 
 >output
-<img src="Screenshot/latihan2_output.png">
+<img src="Screenshot/latihan2_out.png">
 
 ### Latihan3
 
